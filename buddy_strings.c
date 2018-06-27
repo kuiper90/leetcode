@@ -31,7 +31,7 @@ bool buddyStrings(char* A, char* B) {
 	int lenB;
 	int count;
 	char *str;
-	int map[32] = { 0 };
+	int map[26] = { 0 };
 		
 	lenA = str_length(A);
 	lenB = str_length(B);
